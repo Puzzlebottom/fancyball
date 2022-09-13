@@ -1,0 +1,14 @@
+{
+  "name": "fancyball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test fancyball"
+  },
+  "author": "Conor Meldrum",
+  "license": "ISC",
+  "dependencies": {
+    "espn-fantasy-football-api": "^0.16.1"
+  }
+}
